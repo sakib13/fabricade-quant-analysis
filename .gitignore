@@ -1,0 +1,9 @@
+# The participant linking key must never enter this repository.
+participant_key.json
+*_key.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

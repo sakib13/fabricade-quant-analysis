@@ -1,8 +1,5 @@
-# fabricade_behavioural_analysis.html is a machine-generated export of the
-# notebook, kept so the analysis can be read without installing anything. Its
-# bulk is Jupyter's own CSS and JavaScript plus base64-embedded figures, none of
-# it hand-written, so it is excluded from GitHub's language statistics.
-fabricade_behavioural_analysis.html linguist-documentation
+# Any HTML here is a generated notebook export, never hand-written.
+*.html linguist-vendored
 
 # Exported figures are output, not source.
 figures/** linguist-generated

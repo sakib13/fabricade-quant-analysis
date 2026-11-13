@@ -7,3 +7,7 @@ participant_key.json
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Generated export of the notebook. GitHub renders the .ipynb itself, outputs
+# and figures included, so the export is kept locally and not committed.
+fabricade_behavioural_analysis.html
